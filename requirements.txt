@@ -1,0 +1,9 @@
+pandas>=2.0.0
+numpy
+fastparquet
+requests      
+python-dotenv 
+jupyter
+matplotlib     
+scikit-learn   
+dbfread
