@@ -1,0 +1,5 @@
+data/
+*.dbc
+*.parquet
+.env
+.ipynb_checkpoints/
