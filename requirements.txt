@@ -6,4 +6,5 @@ python-dotenv
 jupyter
 matplotlib     
 scikit-learn   
-dbfread
+pyarrow
+pysus
